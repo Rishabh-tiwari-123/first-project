@@ -1,2 +1,2 @@
-# first-project on javascript
-simons game
+# First-Project on Javascript
+Simons game
