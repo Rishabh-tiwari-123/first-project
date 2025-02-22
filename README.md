@@ -1,2 +1,2 @@
 # First-Project on Javascript
-Simons game
+Simons game /game of IQ
